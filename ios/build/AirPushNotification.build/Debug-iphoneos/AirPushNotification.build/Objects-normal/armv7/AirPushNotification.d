@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m \
+  /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/../../../../../../Applications/Adobe\ Flash\ Builder\ 4.7/eclipse/plugins/com.adobe.flash.compiler_4.7.0.349722/AIRSDK/include/FlashRuntimeExtensions.h \
+  /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.h \
+  /Users/maorbar/Downloads/Parse.framework/Headers/Parse.h \
+  /Users/maorbar/Downloads/Parse.framework/Headers/PFACL.h \
+  /Users/maorbar/Downloads/Parse.framework/Headers/PFAnalytics.h \
+  /Users/maorbar/Downloads/Parse.framework/Headers/PFAnonymousUtils.h \
+  /Users/maorbar/Downloads/Parse.framework/Headers/PFUser.h \
+  /Users/maorbar/Downloads/Parse.framework/Headers/PFConstants.h \
+  /Users/maorbar/Downloads/Parse.framework/Headers/PFObject.h \
+  /Users/maorbar/Downloads/Parse.framework/Headers/PFSubclassing.h \
+  /Users/maorbar/Downloads/Parse.framework/Headers/PFCloud.h \
+  /Users/maorbar/Downloads/Parse.framework/Headers/PFFile.h \
+  /Users/maorbar/Downloads/Parse.framework/Headers/PFGeoPoint.h \
+  /Users/maorbar/Downloads/Parse.framework/Headers/PFQuery.h \
+  /Users/maorbar/Downloads/Parse.framework/Headers/PFRelation.h \
+  /Users/maorbar/Downloads/Parse.framework/Headers/PFRole.h \
+  /Users/maorbar/Downloads/Parse.framework/Headers/PFImageView.h \
+  /Users/maorbar/Downloads/Parse.framework/Headers/PFInstallation.h \
+  /Users/maorbar/Downloads/Parse.framework/Headers/PFLogInViewController.h \
+  /Users/maorbar/Downloads/Parse.framework/Headers/PFLogInView.h \
+  /Users/maorbar/Downloads/Parse.framework/Headers/PFSignUpViewController.h \
+  /Users/maorbar/Downloads/Parse.framework/Headers/PFSignUpView.h \
+  /Users/maorbar/Downloads/Parse.framework/Headers/PFProduct.h \
+  /Users/maorbar/Downloads/Parse.framework/Headers/PFProductTableViewController.h \
+  /Users/maorbar/Downloads/Parse.framework/Headers/PFQueryTableViewController.h \
+  /Users/maorbar/Downloads/Parse.framework/Headers/PFTableViewCell.h \
+  /Users/maorbar/Downloads/Parse.framework/Headers/PF_EGORefreshTableHeaderView.h \
+  /Users/maorbar/Downloads/Parse.framework/Headers/PFPurchase.h \
+  /Users/maorbar/Downloads/Parse.framework/Headers/PFPush.h \
+  /Users/maorbar/Downloads/Parse.framework/Headers/PFTwitterUtils.h \
+  /Users/maorbar/Downloads/Parse.framework/Headers/PF_Twitter.h

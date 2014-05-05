@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<platform xmlns="http://ns.adobe.com/air/extension/13.0">
+    <sdkVersion>7.1</sdkVersion>
+    <linkerOptions>
+        <!--<option>--weak_framework Parse</option>-->
+    </linkerOptions>
+     <packagedDependencies>
+       <packagedDependency>Parse.framework</packagedDependency>
+    </packagedDependencies>
+</platform>

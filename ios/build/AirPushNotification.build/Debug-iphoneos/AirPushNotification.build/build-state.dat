@@ -1,0 +1,676 @@
+TAirPushNotification
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-cfndzejjdowyrdanrdlwxanxbyad/AirPushNotification-Prefix.pch.pch AirPushNotification/AirPushNotification-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7/AirPushNotification.o /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos/libAirPushNotification.a normal armv7
+
+N/Applications/Adobe Flash Builder 4.7/eclipse/plugins/com.adobe.flash.compiler_4.7.0.349722/AIRSDK/include/FlashRuntimeExtensions.h
+c000000005334856D0000000000004D54
+t1395950957
+s19796
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c0000000053119F860000000000000132
+t1393663878
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c00000000535D09D7000000000000036B
+t1398606295
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000535D09D8000000000000019E
+t1398606296
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c00000000535D09DC0000000000CF7800
+t1398606300
+s13596672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000535D09DB000000000063A500
+t1398606299
+s6530304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000535D09DC00000000004D7BC0
+t1398606300
+s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000535D09DC0000000000152370
+t1398606300
+s1385328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000535D09E00000000000A90C10
+t1398606304
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c00000000535D09E00000000000210E90
+t1398606304
+s2166416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000535D09E30000000000649DB0
+t1398606307
+s6593968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000535D09E20000000000186D60
+t1398606306
+s1600864
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/StoreKit.framework/StoreKit
+c00000000535D09E20000000000099D80
+t1398606306
+s630144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c00000000535D09E300000000001A2B00
+t1398606307
+s1714944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000535D09EA0000000002759920
+t1398606314
+s41261344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.1.2.5.dylib
+c00000000535D0A0700000000000466D0
+t1398606343
+s288464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.dylib
+c00000000535D0A0700000000000466D0
+t1398606343
+s288464
+
+N/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification-Prefix.pch
+c0000000050C0047E00000000000003FA
+t1354761342
+s1018
+
+N/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.h
+c0000000050C0047E0000000000000950
+t1354761342
+s2384
+
+N/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m
+c000000005360DF790000000000002B2F
+t1398857593
+s11055
+
+N/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/arm64/AirPushNotification.LinkFileList
+c00000000535F7F2D00000000000000AE
+t1398767405
+s174
+
+N/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/arm64/AirPushNotification.o
+t1398857642
+s86800
+
+N/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/arm64/libAirPushNotification.a
+t1398857642
+s87656
+
+N/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7/AirPushNotification.LinkFileList
+c00000000535F7F2D00000000000000AE
+t1398767405
+s174
+
+N/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7/AirPushNotification.o
+t1398857641
+s79972
+
+N/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7/libAirPushNotification.a
+t1398857642
+s80832
+
+N/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7s/AirPushNotification.LinkFileList
+c00000000535F7F2D00000000000000AF
+t1398767405
+s175
+
+N/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7s/AirPushNotification.o
+t1398857641
+s79972
+
+N/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7s/libAirPushNotification.a
+t1398857642
+s80832
+
+N/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos/libAirPushNotification.a
+t1398857642
+s249388
+
+N/Users/maorbar/Downloads/Parse.framework/Headers/PFACL.h
+c00000000533E6CB200000000000019F8
+t1396599986
+s6648
+
+N/Users/maorbar/Downloads/Parse.framework/Headers/PFAnalytics.h
+c00000000533E6CB20000000000000ABC
+t1396599986
+s2748
+
+N/Users/maorbar/Downloads/Parse.framework/Headers/PFAnonymousUtils.h
+c00000000533E6CB2000000000000094B
+t1396599986
+s2379
+
+N/Users/maorbar/Downloads/Parse.framework/Headers/PFCloud.h
+c00000000533E6CB20000000000000847
+t1396599986
+s2119
+
+N/Users/maorbar/Downloads/Parse.framework/Headers/PFConstants.h
+c00000000533E6CB20000000000001EE5
+t1396599986
+s7909
+
+N/Users/maorbar/Downloads/Parse.framework/Headers/PFFile.h
+c00000000533E6CB20000000000001F8D
+t1396599986
+s8077
+
+N/Users/maorbar/Downloads/Parse.framework/Headers/PFGeoPoint.h
+c00000000533E6CB20000000000000A3E
+t1396599986
+s2622
+
+N/Users/maorbar/Downloads/Parse.framework/Headers/PFImageView.h
+c00000000533E6CB20000000000000366
+t1396599986
+s870
+
+N/Users/maorbar/Downloads/Parse.framework/Headers/PFInstallation.h
+c00000000533E6CB20000000000000B43
+t1396599986
+s2883
+
+N/Users/maorbar/Downloads/Parse.framework/Headers/PFLogInView.h
+c00000000533E6CB20000000000000B75
+t1396599986
+s2933
+
+N/Users/maorbar/Downloads/Parse.framework/Headers/PFLogInViewController.h
+c00000000533E6CB20000000000000E55
+t1396599986
+s3669
+
+N/Users/maorbar/Downloads/Parse.framework/Headers/PFObject.h
+c00000000533E6CB2000000000000545E
+t1396599986
+s21598
+
+N/Users/maorbar/Downloads/Parse.framework/Headers/PFProduct.h
+c00000000533E6CB2000000000000068E
+t1396599986
+s1678
+
+N/Users/maorbar/Downloads/Parse.framework/Headers/PFProductTableViewController.h
+c00000000533E6CB2000000000000023A
+t1396599986
+s570
+
+N/Users/maorbar/Downloads/Parse.framework/Headers/PFPurchase.h
+c00000000533E6CB20000000000000A6A
+t1396599986
+s2666
+
+N/Users/maorbar/Downloads/Parse.framework/Headers/PFPush.h
+c00000000533E6CB20000000000004591
+t1396599986
+s17809
+
+N/Users/maorbar/Downloads/Parse.framework/Headers/PFQuery.h
+c00000000533E6CB2000000000000526A
+t1396599986
+s21098
+
+N/Users/maorbar/Downloads/Parse.framework/Headers/PFQueryTableViewController.h
+c00000000533E6CB2000000000000153A
+t1396599986
+s5434
+
+N/Users/maorbar/Downloads/Parse.framework/Headers/PFRelation.h
+c00000000533E6CB200000000000003A0
+t1396599986
+s928
+
+N/Users/maorbar/Downloads/Parse.framework/Headers/PFRole.h
+c00000000533E6CB20000000000000AE4
+t1396599986
+s2788
+
+N/Users/maorbar/Downloads/Parse.framework/Headers/PFSignUpView.h
+c00000000533E6CB200000000000008C6
+t1396599986
+s2246
+
+N/Users/maorbar/Downloads/Parse.framework/Headers/PFSignUpViewController.h
+c00000000533E6CB20000000000000B96
+t1396599986
+s2966
+
+N/Users/maorbar/Downloads/Parse.framework/Headers/PFSubclassing.h
+c00000000533E6CB200000000000007EE
+t1396599986
+s2030
+
+N/Users/maorbar/Downloads/Parse.framework/Headers/PFTableViewCell.h
+c00000000533E6CB20000000000000299
+t1396599986
+s665
+
+N/Users/maorbar/Downloads/Parse.framework/Headers/PFTwitterUtils.h
+c00000000533E6CB20000000000001FBC
+t1396599986
+s8124
+
+N/Users/maorbar/Downloads/Parse.framework/Headers/PFUser.h
+c00000000533E6CB20000000000003354
+t1396599986
+s13140
+
+N/Users/maorbar/Downloads/Parse.framework/Headers/PF_EGORefreshTableHeaderView.h
+c00000000533E6CB200000000000008B0
+t1396599986
+s2224
+
+N/Users/maorbar/Downloads/Parse.framework/Headers/PF_Twitter.h
+c00000000533E6CB200000000000005E1
+t1396599986
+s1505
+
+N/Users/maorbar/Downloads/Parse.framework/Headers/Parse.h
+c00000000533E6CB2000000000000081A
+t1396599986
+s2074
+
+N/Users/maorbar/Downloads/Parse.framework/Parse
+c00000000533E6CB20000000001D95EEC
+t1396599986
+s31022828
+
+N/var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-avviqilbsxcfpkakmmmfachhihiq/AirPushNotification-Prefix.pch.pch
+t1398767406
+s3195520
+
+N/var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-bcjgutofaxidwqfxqaxydcwlkazy/AirPushNotification-Prefix.pch.pch
+t1398857641
+s3178308
+
+N/var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-cfndzejjdowyrdanrdlwxanxbyad/AirPushNotification-Prefix.pch.pch
+t1398857641
+s3178144
+
+N/var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-cjuzhnnbkacpkjgvwgpfhsetwyql/AirPushNotification-Prefix.pch.pch
+t1398767406
+s3178264
+
+N/var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-czsotvicluozmjawouydrnjtuwea/AirPushNotification-Prefix.pch.pch
+t1398857641
+s3195564
+
+N/var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-dhoqaewoikcfrbdedpademxzgtvy/AirPushNotification-Prefix.pch.pch
+t1398767406
+s3178104
+
+CBuild AST from /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies0c409bd52a11b941^af5ea9d52a11b941^---0#1#1#--18"Check dependencies36"74E55511-141F-45C2-9796-E08EAF4518F8-
+
+CCompileC build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/arm64/AirPushNotification.o /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420550441.960203
+e420550442.237658
+r1
+xCompileC
+xbuild/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/arm64/AirPushNotification.o
+x/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m
+d/Applications/Adobe Flash Builder 4.7/eclipse/plugins/com.adobe.flash.compiler_4.7.0.349722/AIRSDK/include/FlashRuntimeExtensions.h
+d/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/Parse.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFACL.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFAnalytics.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFAnonymousUtils.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFUser.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFConstants.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFObject.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFSubclassing.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFCloud.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFFile.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFGeoPoint.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFQuery.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFRelation.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFRole.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFImageView.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFInstallation.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFLogInViewController.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFLogInView.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFSignUpViewController.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFSignUpView.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFProduct.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFProductTableViewController.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFQueryTableViewController.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFTableViewCell.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PF_EGORefreshTableHeaderView.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFPurchase.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFPush.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFTwitterUtils.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PF_Twitter.h
+o/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m:33:88: warning: redefinition of method parameter 'application'
+o- (BOOL)application:(UIApplication*)application didFinishLaunchingWithOptions:(NSData*)application{
+o                                                                                       ^
+o/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m:33:37: note: previous declaration is here
+o- (BOOL)application:(UIApplication*)application didFinishLaunchingWithOptions:(NSData*)application{
+o                                    ^
+o/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m:94:26: warning: implicit conversion loses integer precision: 'NSUInteger' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]
+o            int length = [ctxDictionary count];
+o                ~~~~~~   ^~~~~~~~~~~~~~~~~~~~~
+o/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m:263:27: warning: implicit conversion loses integer precision: 'NSInteger' (aka 'long') to 'uint32_t' (aka 'unsigned int') [-Wshorten-64-to-32]
+o    *numFunctionsToTest = nbFuntionsToLink;
+o                        ~ ^~~~~~~~~~~~~~~~
+o3 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m235"CompileC build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/arm64/AirPushNotification.o AirPushNotification/AirPushNotification.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilercdeaf5291711b941^1ff83c2a1711b941^-1305"/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m:33:88: warning: redefinition of method parameter 'application'- (BOOL)application:(UIApplication*)application didFinishLaunchingWithOptions:(NSData*)application{                                                                                       ^/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m:33:37: note: previous declaration is here- (BOOL)application:(UIApplication*)application didFinishLaunchingWithOptions:(NSData*)application{                                    ^/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m:94:26: warning: implicit conversion loses integer precision: 'NSUInteger' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]            int length = [ctxDictionary count];                ~~~~~~   ^~~~~~~~~~~~~~~~~~~~~/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m:263:27: warning: implicit conversion loses integer precision: 'NSInteger' (aka 'long') to 'uint32_t' (aka 'unsigned int') [-Wshorten-64-to-32]    *numFunctionsToTest = nbFuntionsToLink;                        ~ ^~~~~~~~~~~~~~~~3 warnings generated.3(36%IDEClangDiagnosticActivityLogMessage2@46"Redefinition of method parameter 'application'-420550442#18446744073709551615#0#1(2@28"Previous declaration is here-420550442#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@106"file:///Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m0000000000000000^32#36#32#36#1378#0#21"Apple LLVM 5.1 Notice--1#27"com.apple.dt.IDE.diagnostic3@106"file:///Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m0000000000000000^32#87#32#87#1429#0#11"Parse Issue--2@88"Implicit conversion loses integer precision: 'NSUInteger' (aka 'unsigned long') to 'int'-420550442#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@106"file:///Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m0000000000000000^93#25#93#25#3666#0#22"Value Conversion Issue2(3@106"file:///Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m0000000000000000^93#25#93#46#3666#20#3@106"file:///Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m0000000000000000^93#16#93#22#3657#0#-2@104"Implicit conversion loses integer precision: 'NSInteger' (aka 'long') to 'uint32_t' (aka 'unsigned int')-420550442#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@106"file:///Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m0000000000000000^262#26#262#26#9496#0#22"Value Conversion Issue2(3@106"file:///Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m0000000000000000^262#26#262#42#9496#0#3@106"file:///Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m0000000000000000^262#24#262#25#9494#0#-0#0#1#-19%DVTDocumentLocation4@106"file:///Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m0000000000000000^3821"CompileC build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/arm64/AirPushNotification.o AirPushNotification/AirPushNotification.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/maorbar/Downloads/ANE-Push-Notification-master/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-generated-files.hmap -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-own-target-headers.hmap -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-all-target-headers.hmap -iquote /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-project-headers.hmap -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/DerivedSources/arm64 -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/DerivedSources -F/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos -F/Users/maorbar/Downloads -include /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-czsotvicluozmjawouydrnjtuwea/AirPushNotification-Prefix.pch -MMD -MT dependencies -MF /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/arm64/AirPushNotification.d --serialize-diagnostics /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/arm64/AirPushNotification.dia -c /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m -o /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/arm64/AirPushNotification.o36"96FCEDF1-7597-4736-B9F0-408B40217767-
+b9D2BF315-C238-4480-978E-3B3F31C2385C
+
+CCompileC build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7/AirPushNotification.o /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420550441.649296
+e420550441.959705
+r1
+xCompileC
+xbuild/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7/AirPushNotification.o
+x/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m
+d/Applications/Adobe Flash Builder 4.7/eclipse/plugins/com.adobe.flash.compiler_4.7.0.349722/AIRSDK/include/FlashRuntimeExtensions.h
+d/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/Parse.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFACL.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFAnalytics.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFAnonymousUtils.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFUser.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFConstants.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFObject.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFSubclassing.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFCloud.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFFile.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFGeoPoint.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFQuery.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFRelation.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFRole.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFImageView.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFInstallation.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFLogInViewController.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFLogInView.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFSignUpViewController.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFSignUpView.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFProduct.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFProductTableViewController.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFQueryTableViewController.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFTableViewCell.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PF_EGORefreshTableHeaderView.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFPurchase.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFPush.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFTwitterUtils.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PF_Twitter.h
+o/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m:33:88: warning: redefinition of method parameter 'application'
+o- (BOOL)application:(UIApplication*)application didFinishLaunchingWithOptions:(NSData*)application{
+o                                                                                       ^
+o/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m:33:37: note: previous declaration is here
+o- (BOOL)application:(UIApplication*)application didFinishLaunchingWithOptions:(NSData*)application{
+o                                    ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m235"CompileC build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7/AirPushNotification.o AirPushNotification/AirPushNotification.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler9b56a6291711b941^8cbff5291711b941^-653"/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m:33:88: warning: redefinition of method parameter 'application'- (BOOL)application:(UIApplication*)application didFinishLaunchingWithOptions:(NSData*)application{                                                                                       ^/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m:33:37: note: previous declaration is here- (BOOL)application:(UIApplication*)application didFinishLaunchingWithOptions:(NSData*)application{                                    ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@46"Redefinition of method parameter 'application'-420550441#18446744073709551615#0#1(2@28"Previous declaration is here-420550441#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@106"file:///Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m0000000000000000^32#36#32#36#1378#0#21"Apple LLVM 5.1 Notice--1#27"com.apple.dt.IDE.diagnostic3@106"file:///Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m0000000000000000^32#87#32#87#1429#0#11"Parse Issue--0#0#1#-19%DVTDocumentLocation4@106"file:///Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m0000000000000000^3824"CompileC build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7/AirPushNotification.o AirPushNotification/AirPushNotification.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/maorbar/Downloads/ANE-Push-Notification-master/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-generated-files.hmap -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-own-target-headers.hmap -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-all-target-headers.hmap -iquote /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-project-headers.hmap -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/DerivedSources/armv7 -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/DerivedSources -F/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos -F/Users/maorbar/Downloads -include /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-cfndzejjdowyrdanrdlwxanxbyad/AirPushNotification-Prefix.pch -MMD -MT dependencies -MF /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7/AirPushNotification.d --serialize-diagnostics /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7/AirPushNotification.dia -c /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m -o /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7/AirPushNotification.o36"A4BE2782-40DC-4DC6-B28F-29763A9D08F4-
+b9D2BF315-C238-4480-978E-3B3F31C2385C
+
+CCompileC build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7s/AirPushNotification.o /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420550441.650638
+e420550441.959613
+r1
+xCompileC
+xbuild/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7s/AirPushNotification.o
+x/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m
+d/Applications/Adobe Flash Builder 4.7/eclipse/plugins/com.adobe.flash.compiler_4.7.0.349722/AIRSDK/include/FlashRuntimeExtensions.h
+d/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/Parse.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFACL.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFAnalytics.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFAnonymousUtils.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFUser.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFConstants.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFObject.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFSubclassing.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFCloud.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFFile.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFGeoPoint.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFQuery.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFRelation.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFRole.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFImageView.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFInstallation.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFLogInViewController.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFLogInView.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFSignUpViewController.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFSignUpView.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFProduct.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFProductTableViewController.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFQueryTableViewController.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFTableViewCell.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PF_EGORefreshTableHeaderView.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFPurchase.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFPush.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PFTwitterUtils.h
+d/Users/maorbar/Downloads/Parse.framework/Headers/PF_Twitter.h
+o/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m:33:88: warning: redefinition of method parameter 'application'
+o- (BOOL)application:(UIApplication*)application didFinishLaunchingWithOptions:(NSData*)application{
+o                                                                                       ^
+o/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m:33:37: note: previous declaration is here
+o- (BOOL)application:(UIApplication*)application didFinishLaunchingWithOptions:(NSData*)application{
+o                                    ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m237"CompileC build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7s/AirPushNotification.o AirPushNotification/AirPushNotification.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler00aca6291711b941^5ebaf5291711b941^-653"/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m:33:88: warning: redefinition of method parameter 'application'- (BOOL)application:(UIApplication*)application didFinishLaunchingWithOptions:(NSData*)application{                                                                                       ^/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m:33:37: note: previous declaration is here- (BOOL)application:(UIApplication*)application didFinishLaunchingWithOptions:(NSData*)application{                                    ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@46"Redefinition of method parameter 'application'-420550441#18446744073709551615#0#1(2@28"Previous declaration is here-420550441#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@106"file:///Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m0000000000000000^32#36#32#36#1378#0#21"Apple LLVM 5.1 Notice--1#27"com.apple.dt.IDE.diagnostic3@106"file:///Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m0000000000000000^32#87#32#87#1429#0#11"Parse Issue--0#0#1#-19%DVTDocumentLocation4@106"file:///Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m0000000000000000^3831"CompileC build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7s/AirPushNotification.o AirPushNotification/AirPushNotification.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/maorbar/Downloads/ANE-Push-Notification-master/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-generated-files.hmap -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-own-target-headers.hmap -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-all-target-headers.hmap -iquote /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-project-headers.hmap -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/DerivedSources/armv7s -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/DerivedSources -F/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos -F/Users/maorbar/Downloads -include /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-bcjgutofaxidwqfxqaxydcwlkazy/AirPushNotification-Prefix.pch -MMD -MT dependencies -MF /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7s/AirPushNotification.d --serialize-diagnostics /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7s/AirPushNotification.dia -c /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification.m -o /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7s/AirPushNotification.o36"747CFD71-12AC-482E-8FD5-7FCC3F476458-
+b9D2BF315-C238-4480-978E-3B3F31C2385C
+
+CCreateUniversalBinary /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos/libAirPushNotification.a normal armv7\ armv7s\ arm64
+s420550442.262760
+e420550442.275332
+r1
+xCreateUniversalBinary
+x/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos/libAirPushNotification.a
+xnormal
+xarmv7 armv7s arm64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Create universal binary /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos/libAirPushNotification.a95"CreateUniversalBinary build/Debug-iphoneos/libAirPushNotification.a normal armv7\ armv7s\ arm64c557432a1711b941^49ba462a1711b941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos/libAirPushNotification.a0000000000000000^1095"CreateUniversalBinary build/Debug-iphoneos/libAirPushNotification.a normal armv7\ armv7s\ arm64    cd /Users/maorbar/Downloads/ANE-Push-Notification-master/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7/libAirPushNotification.a /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7s/libAirPushNotification.a /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/arm64/libAirPushNotification.a -o /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos/libAirPushNotification.a36"D8CD8C2D-F239-46C3-A6C4-738249361DE8-
+b9D2BF315-C238-4480-978E-3B3F31C2385C
+
+CLibtool /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/arm64/libAirPushNotification.a normal arm64
+s420550442.252812
+e420550442.261929
+r1
+xLibtool
+x/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/arm64/libAirPushNotification.a
+xnormal
+xarm64
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+owarning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
+owarning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
+owarning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"Libtool build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/arm64/libAirPushNotification.a normal arm64139"Libtool build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/arm64/libAirPushNotification.a normal arm6420d1402a1711b941^0210432a1711b941^-1017"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC warning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static librarywarning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static librarywarning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library3(21%IDEActivityLogMessage2@276"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library-420550442#159#286#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Librarian Warning--2@276"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library-420550442#445#286#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Librarian Warning--2@276"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library-420550442#731#286#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Librarian Warning--0#0#1#--1528"Libtool build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/arm64/libAirPushNotification.a normal arm64    cd /Users/maorbar/Downloads/ANE-Push-Notification-master/ios    export IPHONEOS_DEPLOYMENT_TARGET=4.3    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only arm64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos -filelist /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/arm64/AirPushNotification.LinkFileList -ObjC -framework SystemConfiguration -framework StoreKit -framework Security -framework QuartzCore -framework MobileCoreServices /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.dylib -framework Parse -framework CoreLocation -framework CoreGraphics -framework CFNetwork -framework AudioToolbox -framework UIKit -framework Foundation -o /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/arm64/libAirPushNotification.a36"106C1DC0-A36D-42FF-83C6-8B0945AB3F25-
+b9D2BF315-C238-4480-978E-3B3F31C2385C
+
+CLibtool /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7/libAirPushNotification.a normal armv7
+s420550442.239960
+e420550442.253534
+r1
+xLibtool
+x/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7/libAirPushNotification.a
+xnormal
+xarmv7
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+owarning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
+owarning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
+owarning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"Libtool build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7/libAirPushNotification.a normal armv7139"Libtool build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7/libAirPushNotification.a normal armv736b03d2a1711b941^05fa402a1711b941^-1017"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC warning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static librarywarning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static librarywarning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library3(21%IDEActivityLogMessage2@276"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library-420550442#159#286#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Librarian Warning--2@276"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library-420550442#445#286#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Librarian Warning--2@276"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library-420550442#731#286#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Librarian Warning--0#0#1#--1528"Libtool build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7/libAirPushNotification.a normal armv7    cd /Users/maorbar/Downloads/ANE-Push-Notification-master/ios    export IPHONEOS_DEPLOYMENT_TARGET=4.3    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos -filelist /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7/AirPushNotification.LinkFileList -ObjC -framework SystemConfiguration -framework StoreKit -framework Security -framework QuartzCore -framework MobileCoreServices /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.dylib -framework Parse -framework CoreLocation -framework CoreGraphics -framework CFNetwork -framework AudioToolbox -framework UIKit -framework Foundation -o /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7/libAirPushNotification.a36"72DB1870-163A-4B46-8BB9-748A485BC2EA-
+b9D2BF315-C238-4480-978E-3B3F31C2385C
+
+CLibtool /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7s/libAirPushNotification.a normal armv7s
+s420550442.241268
+e420550442.251940
+r1
+xLibtool
+x/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7s/libAirPushNotification.a
+xnormal
+xarmv7s
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+owarning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
+owarning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
+owarning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"Libtool build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7s/libAirPushNotification.a normal armv7s141"Libtool build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7s/libAirPushNotification.a normal armv7sbfd63d2a1711b941^b684402a1711b941^-1017"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC warning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static librarywarning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static librarywarning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library3(21%IDEActivityLogMessage2@276"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library-420550442#159#286#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Librarian Warning--2@276"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library-420550442#445#286#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Librarian Warning--2@276"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library-420550442#731#286#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Librarian Warning--0#0#1#--1533"Libtool build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7s/libAirPushNotification.a normal armv7s    cd /Users/maorbar/Downloads/ANE-Push-Notification-master/ios    export IPHONEOS_DEPLOYMENT_TARGET=4.3    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos -filelist /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7s/AirPushNotification.LinkFileList -ObjC -framework SystemConfiguration -framework StoreKit -framework Security -framework QuartzCore -framework MobileCoreServices /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.dylib -framework Parse -framework CoreLocation -framework CoreGraphics -framework CFNetwork -framework AudioToolbox -framework UIKit -framework Foundation -o /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7s/libAirPushNotification.a36"2A1DED95-A39A-4716-98F9-9BD36303E87D-
+b9D2BF315-C238-4480-978E-3B3F31C2385C
+
+CLibtool /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos/libAirPushNotification.a normal armv7
+s420555477.667827
+e420555477.703497
+r1
+xLibtool
+x/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos/libAirPushNotification.a
+xnormal
+xarmv7
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+owarning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.1.2.5.dylib is a dynamic library, not added to the static library
+owarning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.1.2.5.dylib is a dynamic library, not added to the static library
+owarning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.1.2.5.dylib is a dynamic library, not added to the static library
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Libtool build/Debug-iphoneos/libAirPushNotification.a normal armv766"Libtool build/Debug-iphoneos/libAirPushNotification.a normal armv79225abd52a11b941^1a19b4d52a11b941^-1035"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC warning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.1.2.5.dylib is a dynamic library, not added to the static librarywarning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.1.2.5.dylib is a dynamic library, not added to the static librarywarning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.1.2.5.dylib is a dynamic library, not added to the static library3(21%IDEActivityLogMessage2@282"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.1.2.5.dylib is a dynamic library, not added to the static library-420555477#159#292#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Librarian Warning--2@282"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.1.2.5.dylib is a dynamic library, not added to the static library-420555477#451#292#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Librarian Warning--2@282"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.1.2.5.dylib is a dynamic library, not added to the static library-420555477#743#292#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Apple Mach-O Librarian Warning--0#0#1#--1388"Libtool build/Debug-iphoneos/libAirPushNotification.a normal armv7    cd /Users/maorbar/Downloads/ANE-Push-Notification-master/ios    export IPHONEOS_DEPLOYMENT_TARGET=4.3    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos -filelist /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/Objects-normal/armv7/AirPushNotification.LinkFileList -ObjC /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libz.1.2.5.dylib -framework SystemConfiguration -framework StoreKit -framework Security -framework QuartzCore -framework MobileCoreServices -framework Parse -framework CoreLocation -framework CoreGraphics -framework CFNetwork -framework AudioToolbox -framework UIKit -framework Foundation -o /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos/libAirPushNotification.a36"62AD9914-B472-4C5F-9243-93A0EE3550DA-
+b4B08519F-D067-4844-A1B4-94B91DE2224E
+
+CProcessPCH /Users/maorbar/Library/Developer/Xcode/DerivedData/AirPushNotification-crehtenvoerwgdbxwfiklmikyapi/Index/PrecompiledHeaders/AirPushNotification-Prefix-amhahopqtgkoyhhhyxmgsibhxlea_ast/AirPushNotification-Prefix.pch.pch AirPushNotification/AirPushNotification-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/maorbar/Library/Developer/Xcode/DerivedData/AirPushNotification-crehtenvoerwgdbxwfiklmikyapi/Index/PrecompiledHeaders/AirPushNotification-Prefix-bvabrthxdhwaupfoncfhhtkjmlne_ast/AirPushNotification-Prefix.pch.pch AirPushNotification/AirPushNotification-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/maorbar/Library/Developer/Xcode/DerivedData/AirPushNotification-crehtenvoerwgdbxwfiklmikyapi/Index/PrecompiledHeaders/AirPushNotification-Prefix-dgbujqjhzculxxfirqkdpgcifrfw_ast/AirPushNotification-Prefix.pch.pch AirPushNotification/AirPushNotification-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/maorbar/Library/Developer/Xcode/DerivedData/AirPushNotification-crehtenvoerwgdbxwfiklmikyapi/Index/PrecompiledHeaders/AirPushNotification-Prefix-djrktdtlefblhwbudkydbfjmyewq_ast/AirPushNotification-Prefix.pch.pch AirPushNotification/AirPushNotification-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/maorbar/Library/Developer/Xcode/DerivedData/AirPushNotification-crehtenvoerwgdbxwfiklmikyapi/Index/PrecompiledHeaders/AirPushNotification-Prefix-glpejgebndzcrndyfnimpafrdjqv_ast/AirPushNotification-Prefix.pch.pch AirPushNotification/AirPushNotification-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/maorbar/Library/Developer/Xcode/DerivedData/AirPushNotification-crehtenvoerwgdbxwfiklmikyapi/Index/PrecompiledHeaders/AirPushNotification-Prefix-hekubyqobomlwzbqavsmiphduwxe_ast/AirPushNotification-Prefix.pch.pch AirPushNotification/AirPushNotification-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-avviqilbsxcfpkakmmmfachhihiq/AirPushNotification-Prefix.pch.pch AirPushNotification/AirPushNotification-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420460206.082358
+e420460206.459890
+r1
+xProcessPCH
+x/var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-avviqilbsxcfpkakmmmfachhihiq/AirPushNotification-Prefix.pch.pch
+xAirPushNotification/AirPushNotification-Prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Precompile AirPushNotification/AirPushNotification-Prefix.pch339"ProcessPCH /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-avviqilbsxcfpkakmmmfachhihiq/AirPushNotification-Prefix.pch.pch AirPushNotification/AirPushNotification-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler5d3315aeb60fb941^aebb75aeb60fb941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification-Prefix.pch0000000000000000^3801"ProcessPCH /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-avviqilbsxcfpkakmmmfachhihiq/AirPushNotification-Prefix.pch.pch AirPushNotification/AirPushNotification-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/maorbar/Downloads/ANE-Push-Notification-master/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-generated-files.hmap -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-own-target-headers.hmap -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-all-target-headers.hmap -iquote /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-project-headers.hmap -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/DerivedSources/arm64 -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/DerivedSources -F/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos --serialize-diagnostics /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-avviqilbsxcfpkakmmmfachhihiq/AirPushNotification-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-avviqilbsxcfpkakmmmfachhihiq/AirPushNotification-Prefix.pch.d -c /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification-Prefix.pch -o /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-avviqilbsxcfpkakmmmfachhihiq/AirPushNotification-Prefix.pch.pch36"1CBAF403-A125-4E9A-96F2-6F8DDF73CA58-
+b975AAEFD-1086-468F-8E28-1BD67F03837B
+
+CProcessPCH /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-bcjgutofaxidwqfxqaxydcwlkazy/AirPushNotification-Prefix.pch.pch AirPushNotification/AirPushNotification-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420550441.069787
+e420550441.378972
+r1
+xProcessPCH
+x/var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-bcjgutofaxidwqfxqaxydcwlkazy/AirPushNotification-Prefix.pch.pch
+xAirPushNotification/AirPushNotification-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Precompile AirPushNotification/AirPushNotification-Prefix.pch340"ProcessPCH /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-bcjgutofaxidwqfxqaxydcwlkazy/AirPushNotification-Prefix.pch.pch AirPushNotification/AirPushNotification-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler0af811291711b941^ba1261291711b941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification-Prefix.pch0000000000000000^3834"ProcessPCH /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-bcjgutofaxidwqfxqaxydcwlkazy/AirPushNotification-Prefix.pch.pch AirPushNotification/AirPushNotification-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/maorbar/Downloads/ANE-Push-Notification-master/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-generated-files.hmap -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-own-target-headers.hmap -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-all-target-headers.hmap -iquote /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-project-headers.hmap -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/DerivedSources/armv7s -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/DerivedSources -F/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos -F/Users/maorbar/Downloads --serialize-diagnostics /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-bcjgutofaxidwqfxqaxydcwlkazy/AirPushNotification-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-bcjgutofaxidwqfxqaxydcwlkazy/AirPushNotification-Prefix.pch.d -c /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification-Prefix.pch -o /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-bcjgutofaxidwqfxqaxydcwlkazy/AirPushNotification-Prefix.pch.pch36"6D7811A6-A286-4AC9-B0FF-9B73479CA363-
+b9D2BF315-C238-4480-978E-3B3F31C2385C
+
+CProcessPCH /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-cfndzejjdowyrdanrdlwxanxbyad/AirPushNotification-Prefix.pch.pch AirPushNotification/AirPushNotification-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420550441.069389
+e420550441.468880
+r1
+xProcessPCH
+x/var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-cfndzejjdowyrdanrdlwxanxbyad/AirPushNotification-Prefix.pch.pch
+xAirPushNotification/AirPushNotification-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Precompile AirPushNotification/AirPushNotification-Prefix.pch339"ProcessPCH /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-cfndzejjdowyrdanrdlwxanxbyad/AirPushNotification-Prefix.pch.pch AirPushNotification/AirPushNotification-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler2dec11291711b941^182178291711b941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification-Prefix.pch0000000000000000^3831"ProcessPCH /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-cfndzejjdowyrdanrdlwxanxbyad/AirPushNotification-Prefix.pch.pch AirPushNotification/AirPushNotification-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/maorbar/Downloads/ANE-Push-Notification-master/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-generated-files.hmap -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-own-target-headers.hmap -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-all-target-headers.hmap -iquote /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-project-headers.hmap -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/DerivedSources/armv7 -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/DerivedSources -F/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos -F/Users/maorbar/Downloads --serialize-diagnostics /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-cfndzejjdowyrdanrdlwxanxbyad/AirPushNotification-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-cfndzejjdowyrdanrdlwxanxbyad/AirPushNotification-Prefix.pch.d -c /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification-Prefix.pch -o /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-cfndzejjdowyrdanrdlwxanxbyad/AirPushNotification-Prefix.pch.pch36"904BBAD5-D00F-440B-B0F8-2DEF158CB4F1-
+b9D2BF315-C238-4480-978E-3B3F31C2385C
+
+CProcessPCH /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-cjuzhnnbkacpkjgvwgpfhsetwyql/AirPushNotification-Prefix.pch.pch AirPushNotification/AirPushNotification-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420460205.753759
+e420460206.081580
+r1
+xProcessPCH
+x/var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-cjuzhnnbkacpkjgvwgpfhsetwyql/AirPushNotification-Prefix.pch.pch
+xAirPushNotification/AirPushNotification-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Precompile AirPushNotification/AirPushNotification-Prefix.pch340"ProcessPCH /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-cjuzhnnbkacpkjgvwgpfhsetwyql/AirPushNotification-Prefix.pch.pch AirPushNotification/AirPushNotification-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler8c15c1adb60fb941^f2ee14aeb60fb941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification-Prefix.pch0000000000000000^3807"ProcessPCH /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-cjuzhnnbkacpkjgvwgpfhsetwyql/AirPushNotification-Prefix.pch.pch AirPushNotification/AirPushNotification-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/maorbar/Downloads/ANE-Push-Notification-master/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-generated-files.hmap -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-own-target-headers.hmap -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-all-target-headers.hmap -iquote /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-project-headers.hmap -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/DerivedSources/armv7s -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/DerivedSources -F/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos --serialize-diagnostics /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-cjuzhnnbkacpkjgvwgpfhsetwyql/AirPushNotification-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-cjuzhnnbkacpkjgvwgpfhsetwyql/AirPushNotification-Prefix.pch.d -c /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification-Prefix.pch -o /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-cjuzhnnbkacpkjgvwgpfhsetwyql/AirPushNotification-Prefix.pch.pch36"F23C60D6-36E5-4807-92B8-A4B48D8B1C91-
+b975AAEFD-1086-468F-8E28-1BD67F03837B
+
+CProcessPCH /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-czsotvicluozmjawouydrnjtuwea/AirPushNotification-Prefix.pch.pch AirPushNotification/AirPushNotification-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420550441.379328
+e420550441.648346
+r1
+xProcessPCH
+x/var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-czsotvicluozmjawouydrnjtuwea/AirPushNotification-Prefix.pch.pch
+xAirPushNotification/AirPushNotification-Prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Precompile AirPushNotification/AirPushNotification-Prefix.pch339"ProcessPCH /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-czsotvicluozmjawouydrnjtuwea/AirPushNotification-Prefix.pch.pch AirPushNotification/AirPushNotification-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerd53e61291711b941^44faa5291711b941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification-Prefix.pch0000000000000000^3828"ProcessPCH /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-czsotvicluozmjawouydrnjtuwea/AirPushNotification-Prefix.pch.pch AirPushNotification/AirPushNotification-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/maorbar/Downloads/ANE-Push-Notification-master/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-generated-files.hmap -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-own-target-headers.hmap -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-all-target-headers.hmap -iquote /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-project-headers.hmap -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/DerivedSources/arm64 -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/DerivedSources -F/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos -F/Users/maorbar/Downloads --serialize-diagnostics /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-czsotvicluozmjawouydrnjtuwea/AirPushNotification-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-czsotvicluozmjawouydrnjtuwea/AirPushNotification-Prefix.pch.d -c /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification-Prefix.pch -o /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-czsotvicluozmjawouydrnjtuwea/AirPushNotification-Prefix.pch.pch36"EA48DC63-325C-4FC8-8101-382AF37CEFDA-
+b9D2BF315-C238-4480-978E-3B3F31C2385C
+
+CProcessPCH /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-dhoqaewoikcfrbdedpademxzgtvy/AirPushNotification-Prefix.pch.pch AirPushNotification/AirPushNotification-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420460205.753212
+e420460206.165449
+r1
+xProcessPCH
+x/var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-dhoqaewoikcfrbdedpademxzgtvy/AirPushNotification-Prefix.pch.pch
+xAirPushNotification/AirPushNotification-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Precompile AirPushNotification/AirPushNotification-Prefix.pch339"ProcessPCH /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-dhoqaewoikcfrbdedpademxzgtvy/AirPushNotification-Prefix.pch.pch AirPushNotification/AirPushNotification-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilere030c1adb60fb941^24812aaeb60fb941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification-Prefix.pch0000000000000000^3804"ProcessPCH /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-dhoqaewoikcfrbdedpademxzgtvy/AirPushNotification-Prefix.pch.pch AirPushNotification/AirPushNotification-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/maorbar/Downloads/ANE-Push-Notification-master/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-generated-files.hmap -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-own-target-headers.hmap -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-all-target-headers.hmap -iquote /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/AirPushNotification-project-headers.hmap -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/DerivedSources/armv7 -I/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/AirPushNotification.build/Debug-iphoneos/AirPushNotification.build/DerivedSources -F/Users/maorbar/Downloads/ANE-Push-Notification-master/ios/build/Debug-iphoneos --serialize-diagnostics /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-dhoqaewoikcfrbdedpademxzgtvy/AirPushNotification-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-dhoqaewoikcfrbdedpademxzgtvy/AirPushNotification-Prefix.pch.d -c /Users/maorbar/Downloads/ANE-Push-Notification-master/ios/AirPushNotification/AirPushNotification-Prefix.pch -o /var/folders/h4/8_42jgjn0_32z25x7btcmbdc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AirPushNotification-Prefix-dhoqaewoikcfrbdedpademxzgtvy/AirPushNotification-Prefix.pch.pch36"4AA0C4EB-CD14-4258-B808-47D6141397B3-
+b975AAEFD-1086-468F-8E28-1BD67F03837B
+
